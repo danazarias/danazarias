@@ -4,7 +4,7 @@
 📚 Cursando Engenharia da Computação
 📊 Assistente de Dados no Grupo Sada
 📈 Foco em Análise de Dados e Inteligência de Negócio
-🛠️ Excel | SQL | Power BI | Python | Databricks |Inteligência Artificial (IA) 
+🛠️ Excel | SQL | Power BI | Python | AZURE - Databricks |Inteligência Artificial (IA) 
 
 🚀 Sobre mim
 
